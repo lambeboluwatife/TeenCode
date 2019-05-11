@@ -69,6 +69,12 @@ p {
   color: white;
 }
 
+.p {
+  font-size: 20px;
+  font-family: Harlow Solid Italic;
+  color: white;
+}
+
 b {
   font-size: 30px;
   color: #4CAF50;
